@@ -1,0 +1,8 @@
+streamlit
+langchain-huggingface
+langchain-community
+python-dotenv
+google-generativeai
+PyPDF2
+deep-translator
+pdfminer.six
